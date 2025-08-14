@@ -17,7 +17,7 @@ A **Power BI Dashboard** has been created to provide:
 - Easy filtering by airline, class, departure city, and booking window.
 - Comparative insights for price prediction and travel planning.
 
-![Power BI Dashboard Preview](dashboard_preview.png)  
+![Power BI Dashboard Preview]("C:\Users\sachi\OneDrive\Pictures\Screenshots\Screenshot 2025-08-14 105039.png")  
 *(Replace with actual screenshot from your dashboard)*
 
 ---
