@@ -19,7 +19,6 @@ A **Power BI Dashboard** has been created to provide:
 
 ![Power BI Dashboard Preview]("<img width="1323" height="752" alt="Screenshot 2025-08-14 105039" src="https://github.com/user-attachments/assets/c284d541-e82f-4092-bc56-9be41a4d9e1a" />
 ")  
-*(Replace with actual screenshot from your dashboard)*
 
 ---
 
@@ -67,7 +66,3 @@ A **Power BI Dashboard** has been created to provide:
 - **Statistical Analysis** → Insights extraction
 
 ---
-
-## 📷 Dashboard Sneak Peek
-```text
-[Insert your dashboard screenshot here for visual appeal]
